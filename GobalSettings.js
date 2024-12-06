@@ -63,7 +63,7 @@ if (tab) {
 
 const settingsDefaultTab = {
   title: "Settings - Sz Games",
-  icon: "https://github.com/sz-games/home/blob/main/G.png?raw=true",
+  icon: "https://warpedentrance2.github.io/warpedentrance3/home/blob/main/G.png?raw=true",
 };
 
 const setTitle = (title = "") => {
